@@ -1,4 +1,2 @@
-This my website, borrowed from [dmetaxak/dmetaxak.github.io][dm] who borrowed from Ali Alkhatib's [instructions][ali]. The design, code, and content are made available under the [Creative Commons Attribution][cc-by] license.
-[dm]:  dmetaxak/dmetaxak.github.io
-[ali]: https://github.com/alialkhatib/alialkhatib.github.io
-[cc-by]: http://creativecommons.org/licenses/by/3.0/us/
+This my website, borrowed from [ValentinaPy/valentinapy.github.io](https://github.com/ValentinaPy/valentinapy.github.io) who borrowed from [dmetaxak/dmetaxak.github.io](https://github.com/dmetaxak/dmetaxak.github.io) who borrowed from [Ali Alkhatib's instructions](https://github.com/alialkhatib/alialkhatib.github.io). The design, code, and content are made available under the [Creative Commons Attribution](http://creativecommons.org/licenses/by/3.0/us/) license.
+

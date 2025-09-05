@@ -30,7 +30,7 @@ Chenglong Lu, **Chenxiao Li**<sup>†</sup>, Jingwei Cheng<sup>*</sup>, Yongquan
 
 #### *Probing Relative Interaction and Dynamic Calibration in Multi-modal Entity Alignment*
 
-Chenglong Lu, **Chenxiao Li**<sup>†</sup>, Jingwei Cheng<sup>*</sup>, Yongquan Ji, Guoqing Chen, and Fu Zhang  
+**Chenxiao Li**, Jingwei Cheng<sup>*</sup>, Qiang Tong, Fu Zhang, and Cairui Wang  
 🎓 In: **ACL 2025 Main** | 📄 [Paper](https://aclanthology.org/2025.acl-long.1384.pdf)
 
 #### *Exploring the Impacts of Feature Fusion Strategy in Multi-modal Entity Alignment*

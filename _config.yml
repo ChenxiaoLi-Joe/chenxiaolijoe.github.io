@@ -1,0 +1,33 @@
+name: Valentina Pyatkin
+title: Valentina Pyatkin
+author: Valentina Pyatkin
+url: https://valentinapy.github.io
+base: ''
+twitter: '@valentina__py'
+
+markdown: kramdown
+kramdown:
+    enable_coderay: false
+    auto_ids: false
+    entity_output: symbolic
+highlighter: rouge
+
+exclude:
+    - bower_components
+    - node_modules
+    - package.json
+    - bower.json
+    - drafts
+
+navigation:
+    - title: about
+      link: /index.html
+    - title: research
+      link: /research.html
+    - title: CV
+      link: /content/CV.pdf
+
+theme: jekyll-theme-minimal
+
+sass:
+  sass_dir: _sass

@@ -2,7 +2,7 @@
 layout: home
 ---
 
-## Short Bio
+## About Me
 Coming
 
 ---
@@ -11,11 +11,13 @@ Coming
 
 ---
 
+## Selected Awards
 
-## Awards
-Coming
+- Coming
+
 
 ---
+
 ## Selected Publications
 
 You can also find my full publication record on my [Google Scholar][GS] profile. 
@@ -43,3 +45,18 @@ Chenglong Lu, **Chenxiao Li**<sup>†</sup>, Jingwei Cheng<sup>*</sup>, Yongquan
 [GS]: https://scholar.google.com/citations?user=C6zKhQwAAAAJ&hl=en
 
 ---
+
+## Academic Services
+
+#### Conference Reviewer
+
+- Coming
+
+---
+
+## Misc
+
+Beyond my academic pursuits, I find joy in running🏃, playing badminton🏸, exploring new places🏞️ and experimenting in the kitchen🍳.
+
+---
+
